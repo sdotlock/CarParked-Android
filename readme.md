@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your and
 
 1. Update "access_token" with your API Key. 
 ```
-app > re > values > strings.xml
+app > res > values > strings.xml
 <string name="access_token">//@TODO ADD YOUR OWN API KEY FOR MAPBOX</string>
 ```
 2. Build Signed API
