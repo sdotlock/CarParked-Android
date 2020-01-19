@@ -1,8 +1,8 @@
 # CarParked
 
-Tag where you've parked and easily find it later with easy to follow walking directions. No more wandering the streets, wondering where you parked your car. 
+Tag where you've parked and easily find it later with easy to follow walking directions. No more wandering the streets, trying to figure out where you parked your car. 
 
-'Carparked' was built as part of a week 'individual project' as park of the [Victoria University of Wellington, Master of Software Development](https://www.wgtn.ac.nz/ecs/study/postgraduate-study/software-development) Course. The aim of the project is to 'impress' faculty by building a novel piece of software using new skills learnt through the week and building on skills taught over the course of the program. 
+'Carparked' was built as an 'Individual Project' week as part of the [Victoria University of Wellington, Master of Software Development](https://www.wgtn.ac.nz/ecs/study/postgraduate-study/software-development) Course. The aim of the project is to 'impress' faculty by building a novel piece of software using new skills learnt through the week and building on skills taught over the course of the program. 
 
 ## Getting Started
 
