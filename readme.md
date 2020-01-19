@@ -16,6 +16,8 @@ These instructions will get you a copy of the project up and running on your and
 
 ### Installing
 
+## Generate your own APK
+
 1. Update "access_token" with your API Key. 
 ```
 app > re > values > strings.xml
@@ -23,6 +25,10 @@ app > re > values > strings.xml
 ```
 2. Build Signed API
 3. Install on Device and run. 
+
+## Get it from Google Play Store
+
+19 January 2020: Submitted to Google Play Store. Status: Publication Pending
 
 ## How to Use
 
@@ -66,10 +72,6 @@ Integration and User Tested on:
 * [AdMob](https://admob.google.com/home/) - Mobile Advertising
 * [Android Studio](https://developer.android.com/studio) - Official Android IDE
 * [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) - Workflow Methodology
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
 ## Authors
