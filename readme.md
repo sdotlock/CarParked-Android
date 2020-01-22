@@ -29,6 +29,7 @@ app > res > values > strings.xml
 ## Get it from Google Play Store
 
 19 January 2020: Submitted to Google Play Store. Status: Publication Pending
+22 January 2020: Published on Google Play Store. [Get it here!](https://play.google.com/store/apps/details?id=com.samlock.carparker&hl=en)
 
 ## How to Use
 
